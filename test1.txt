@@ -1,1 +1,2 @@
 Change 1
+I am adding this and checking if Git knew that I change this somehow.
